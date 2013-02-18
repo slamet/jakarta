@@ -1,14 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Aplikasi</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
+<html lang="en"> 
+<head> 
+    <meta charset="utf-8"> 
+    <title>Slamet's curriculum vitae</title> 
+    <meta name="description" content="Using CSS3 to create GitHub-style buttons from links, buttons, and inputs"> 
+
+<%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
+  <%= javascript_include_tag "gh-buttons" %>
   <%= csrf_meta_tags %>
-</head>
+    
+    <!-- prettyify -->
+   
+</head> 
 <body>
 
 <%= yield %>
-
 </body>
 </html>
