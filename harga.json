@@ -1,0 +1,119 @@
+[{
+        "title": "Beras (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/beras.jpg",
+        "rating": 7,
+        "releaseYear": 10550,
+          "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "gula Pasir (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/gula.jpg",
+        "rating": 7,
+         "releaseYear": 15998,
+          "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Minyak Goreng (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/minyak.jpg",
+        "rating": 7,
+         "releaseYear": 11493,
+          "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Tepung Terigu (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/tepung.jpg",
+        "rating": 7,
+        "releaseYear": 9161,
+         "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Kedelai (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/kedelai.jpg",
+        "rating": 7,
+         "releaseYear": 11218,
+          "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Daging Sapi (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/sapi.jpg",
+        "rating": 7,
+         "releaseYear": 115241,
+          "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Daging Ayam (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/ayam.jpg",
+        "rating": 7,
+           "releaseYear": 33469,
+         "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Telur Ayam (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/telur.jpg",
+        "rating": 7,
+         "releaseYear": 26815,
+         "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Cabe Merah (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/cabe.jpg",
+        "rating": 7,
+           "releaseYear": 38410,
+         "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Bawang Merah (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/bawang.jpg",
+        "rating": 7,
+          "releaseYear": 40304,
+         "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Susu (Rp/385g)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/susu.jpg",
+        "rating": 7,
+        "releaseYear": 10370,
+       "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Jagung (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/jagung.jpg",
+        "rating": 7,
+        "releaseYear": 7058,
+        "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Ikan (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/ikan.jpg",
+        "rating": 7,
+         "releaseYear": 71762,
+        "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Garam (Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/garam.jpg",
+        "rating": 7,
+        "releaseYear": 55554,
+        "genre": ["Hari ini", "Besok"]
+    },
+    {
+        "title": "Mie Instan (Rp/Bks)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/mie.jpg",
+        "rating": 7,
+        "releaseYear": 2312,
+		"genre": ["Hari ini", "Besok"]
+    },
+	 {
+        "title": "Kacang(Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/kacang.jpg",
+        "rating": 7,
+        "releaseYear": 26640,
+         "genre": ["Hari ini", "Besok"]
+    },
+	 {
+        "title": "Ketela Pohon(Rp/Kg)",
+        "image": "https://ndesostyle.files.wordpress.com/2016/07/ketela.jpg",
+        "rating": 7,
+        "releaseYear": 6009,
+        "genre": ["Hari ini", "Besok"]
+    }]
